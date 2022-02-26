@@ -3,7 +3,7 @@ int main()
 {
     int num1,num2,result;                                            // Initializing the variables
     
-    printf("Enter any two numbers\n");                               // Print message
+    printf("Addition of numbers\n");                               // Print message
     
     printf("Enter first number : \n");
     scanf("%d",&num1);                                            // Input first number
