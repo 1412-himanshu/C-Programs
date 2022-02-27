@@ -6,7 +6,7 @@ int main()
     printf("Enter your marks\n");                                           // Print message
     scanf("%d",&marks);                                                     // Get input of marks from user
     
-    if (marks>85 && marks<=100)
+    if (marks>85 && marks<=100)                                             // && -> AND operator
     {
         printf("Congratulations !! You secured A+ Grade......");            // if block
     }
