@@ -11,7 +11,7 @@ int main()
     
     for (int i = 1; i <= number; i++)                           // for loop
     {
-        factorial = factorial*i;                                // Condition for fcatorial generation
+        factorial = factorial*i;                                // Condition for factorial generation
     }
     
     printf("The factorial of %d is %llu",number,factorial);     // Print result
